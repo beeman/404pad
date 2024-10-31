@@ -1,0 +1,14 @@
+[dev]
+port = 3000
+hot = true
+
+[build]
+entry = ["./src/index.tsx"]
+outdir = "./dist"
+minify = true
+sourcemap = true
+target = "browser"
+publicPath = "/"
+splitting = true
+jsx = "preserve"
+jsxImportSource = "@builder.io/qwik"

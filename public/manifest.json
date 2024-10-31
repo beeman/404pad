@@ -1,0 +1,16 @@
+{
+  "name": "404pad",
+  "short_name": "404pad",
+  "description": "MPL404 native mint launchpad, support candy machine v3",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#13151A",
+  "theme_color": "#FF4040",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "256x256",
+      "type": "image/svg+xml"
+    }
+  ]
+}
